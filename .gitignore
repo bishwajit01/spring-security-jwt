@@ -1,0 +1,6 @@
+.metadata/*
+spring-security/.mvn/*
+spring-security/bin/*
+spring-security/mvnw
+spring-security/mvnw.cmd
+spring-security/.gitignore
