@@ -4,3 +4,9 @@ spring-security/bin/*
 spring-security/mvnw
 spring-security/mvnw.cmd
 spring-security/.gitignore
+/.metadata/
+/.recommenders/
+spring-security-jdbc/.gitignore
+spring-security-jdbc/.mvn/*
+spring-security-jdbc/mvnw
+spring-security-jdbc/mvnw.cmd
