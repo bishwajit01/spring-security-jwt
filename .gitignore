@@ -14,3 +14,7 @@ spring-security-jpa/.gitignore
 spring-security-jpa/.mvn/*
 spring-security-jpa/mvnw
 spring-security-jpa/mvnw.cmd
+spring-security-ldap/.gitignore
+spring-security-ldap/.mvn/*
+spring-security-ldap/mvnw
+spring-security-ldap/mvnw.cmd
