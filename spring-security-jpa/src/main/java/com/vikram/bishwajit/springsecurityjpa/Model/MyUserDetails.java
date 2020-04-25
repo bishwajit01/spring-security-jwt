@@ -1,7 +1,4 @@
-/**
- * 
- */
-package com.vikram.bishwajit.springsecurityjpa.service;
+package com.vikram.bishwajit.springsecurityjpa.Model;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -12,10 +9,8 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.vikram.bishwajit.springsecurityjpa.Model.User;
-
 /**
- * @author bvikram2
+ * @author Bishwajit.
  *
  */
 public class MyUserDetails implements UserDetails {

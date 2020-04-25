@@ -8,6 +8,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
+import com.vikram.bishwajit.springsecurityjpa.Model.MyUserDetails;
 import com.vikram.bishwajit.springsecurityjpa.Model.User;
 import com.vikram.bishwajit.springsecurityjpa.dao.UserRepository;
 
