@@ -22,3 +22,7 @@ spring-security-jwt/.gitignore
 spring-security-jwt/.mvn/*
 spring-security-jwt/mvnw
 spring-security-jwt/mvnw.cmd
+spring-security-facebook-login/.gitignore
+spring-security-facebook-login/.mvn/
+spring-security-facebook-login/mvnw
+spring-security-facebook-login/mvnw.cmd
